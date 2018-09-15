@@ -4,8 +4,8 @@
 ### https://sourceforge.net/projects/mgame/
 
 ### Online-Repo
-...
+```
 [mGAMe]
 SigLevel = Never
 Server = https://abohiccups.github.io/mGAMe/Repo
-...
+```
