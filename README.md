@@ -1,5 +1,5 @@
-# These are the Source Files to build a ISO.
-### To download a ISO. Visit a SourceForge page.
+# These are the Source Files to build a Manjaro: Gaming Edition.
+### To download this Unofficial Respin. Visit a SourceForge page.
 https://sourceforge.net/projects/mgame/
 ### Online-Repo
 ```
