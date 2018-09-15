@@ -1,8 +1,7 @@
 # Manjaro: Gaming Edition By ABOhiccups
 # These are the Source Files to build a ISO.
 ### To download a ISO. Visit a SourceForge page.
-### https://sourceforge.net/projects/mgame/
-#
+https://sourceforge.net/projects/mgame/
 ### Online-Repo
 ```
 [mGAMe]
