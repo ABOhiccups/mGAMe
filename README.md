@@ -6,5 +6,5 @@ https://sourceforge.net/projects/mgame/
 ```
 [mGAMe]
 SigLevel = Never
-Server = https://abohiccups.github.io/mGAMe/Repo
+Server = https://raw.github.com/ABOhiccups/mGAMe/master/Repo
 ```
