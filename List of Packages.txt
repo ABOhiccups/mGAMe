@@ -69,9 +69,7 @@ kega-fusion
 minecraft
 minecraft-server
 obs-linuxbrowser
-openarena
 pcsxr
-torcs
 
 ==================================================
 Online-Repo
