@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=OpenRA - Tiberian Dawn
+GenericName=Real Time Strategy Game
+GenericName[de]=Echtzeit-Strategiespiel
+Comment=Reimagining of early Westwood Games
+Icon=openra-cnc
+Exec=openra-cnc
+Terminal=false
+Categories=Game;StrategyGame;

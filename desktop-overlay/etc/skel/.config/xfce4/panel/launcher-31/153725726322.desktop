@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Mumble
+GenericName=Voice Chat
+Comment=A low-latency, high quality voice chat program for gaming
+Exec=mumble %u
+Icon=mumble
+Terminal=false
+Type=Application
+StartupNotify=false
+MimeType=x-scheme-handler/mumble
+Categories=Network;Chat;Qt;
+Keywords=VoIP;Messaging;Voice Chat;Secure Communication
+Version=1.0
+X-XFCE-Source=file:///usr/share/applications/mumble.desktop
