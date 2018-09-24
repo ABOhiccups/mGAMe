@@ -9,6 +9,10 @@ bleachbit
 blender
 breeze
 breeze-icons
+cairo-dock
+cairo-dock-plug-ins
+conky
+conky-manager
 cool-retro-term
 desmume
 dolphin-emu
