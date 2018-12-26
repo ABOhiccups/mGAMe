@@ -7,6 +7,7 @@ astromenace
 audacity
 bleachbit
 blender
+bless
 breeze
 breeze-icons
 cairo-dock
@@ -52,13 +53,10 @@ qt4
 qt5-webkit
 retroarch
 retroarch-assets-xmb
-rocksndiamonds
-screenfetch
 snes9x-gtk
 stella
 supertux
 supertuxkart
-ufoai
 vbam-wx
 wesnoth
 wine
@@ -70,6 +68,7 @@ AUR Packages
 ==================================================
 discord
 kega-fusion
+m64py
 minecraft
 minecraft-server
 obs-linuxbrowser
