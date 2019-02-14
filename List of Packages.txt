@@ -68,8 +68,7 @@ AUR Packages
 discord
 kega-fusion
 m64py
-minecraft
-minecraft-server
+minecraft-launcher
 obs-linuxbrowser
 pcsxr
 

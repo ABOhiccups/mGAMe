@@ -6,4 +6,4 @@ sudo pacman -S 0ad aisleriot astromenace audacity bleachbit blender bless breeze
 ==================================================
 AUR Packages
 ==================================================
-yay -S discord kega-fusion m64py minecraft minecraft-server obs-linuxbrowser pcsxr
+yay -S discord kega-fusion m64py minecraft-launcher obs-linuxbrowser pcsxr
