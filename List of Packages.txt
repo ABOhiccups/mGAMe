@@ -69,7 +69,6 @@ discord
 kega-fusion
 m64py
 minecraft-launcher
-obs-linuxbrowser
 pcsxr
 
 ==================================================
