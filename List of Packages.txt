@@ -52,6 +52,8 @@ playonlinux
 ppsspp
 qt4
 qt5-webkit
+retroarch
+retroarch-assets-xmb
 snes9x-gtk
 stella
 supertux
