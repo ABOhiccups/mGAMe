@@ -68,10 +68,14 @@ yay
 AUR Packages
 ==================================================
 discord
+ds4drv
 kega-fusion
 m64py
 minecraft-launcher
 pcsxr
+xboxdrv
+xpad-dkms-git
+xpadneo-dkms-git
 
 ==================================================
 Online-Repo
